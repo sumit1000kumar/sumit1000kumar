@@ -69,6 +69,7 @@ Production-ready MERN e-commerce platform featuring:
 
 **Live Demo**
 🌐 https://ferreafashion.com
+
 ---
 
 ### SecureMedX
@@ -96,7 +97,7 @@ Coaching management platform including:
 
 ---
 
-### 🏢 Panvel Placement
+### Panvel Placement
 A full-stack recruitment and job portal built for students, recruiters, and placement agencies.
 
 **Key Features**
