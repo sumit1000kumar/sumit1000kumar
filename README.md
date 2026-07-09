@@ -21,38 +21,23 @@ Currently, I'm focused on strengthening my Data Structures & Algorithms skills w
 
 ## Technical Skills
 
-### Languages
-- JavaScript (ES6+)
-- Java
-- SQL
+Languages
+JavaScript • Java • SQL
 
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+Frontend
+React • HTML • CSS • Tailwind • Bootstrap
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
+Backend
+Node • Express • REST APIs
 
-### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
+Database
+MongoDB • MySQL • PostgreSQL
 
-### Cloud & DevOps
-- AWS (EC2, S3)
-- Docker
+Cloud
+AWS • Docker
 
-### Tools
-- Git
-- GitHub
-- Postman
-- Figma
-- Jira
+Tools
+Git • GitHub • Postman • Figma • Jira
 
 ---
 
