@@ -1,6 +1,6 @@
 # Hi, I'm Sumit Kumar 👋
 
-### Full Stack Developer | MERN Stack | Java | AWS
+### Full Stack Developer | MERN Stack | Java 
 
 I'm a Full Stack Developer with experience building scalable web applications, REST APIs, and cloud-deployed software. I enjoy solving real-world business problems through clean architecture, efficient backend systems, and intuitive user experiences.
 
