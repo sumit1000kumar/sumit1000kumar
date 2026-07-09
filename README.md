@@ -46,7 +46,6 @@ Currently, I'm focused on strengthening my Data Structures & Algorithms skills w
 ### Cloud & DevOps
 - AWS (EC2, S3)
 - Docker
-- GitHub Actions
 
 ### Tools
 - Git
@@ -65,10 +64,11 @@ Production-ready MERN e-commerce platform featuring:
 - JWT Authentication
 - Admin Dashboard
 - Razorpay Payment Integration
-- Shiprocket Integration
 - AWS S3 Media Storage
 - Product & Order Management
 
+**Live Demo**
+🌐 https://ferreafashion.com
 ---
 
 ### SecureMedX
@@ -77,7 +77,7 @@ Healthcare management platform providing:
 
 - Secure medical record management
 - Doctor appointment scheduling
-- Digital prescriptions
+- Digital prescriptions along with online ordering support
 - AI-assisted medical report analysis
 
 ---
@@ -86,11 +86,28 @@ Healthcare management platform providing:
 
 Coaching management platform including:
 
-- Student Management
-- Attendance System
-- Fee Management
+- Batch-wise Student Management
+- Attendance System, Study Material Management, Online test creation and checking (MCQs and Subjective both), Fees Management
 - Role-Based Authentication
 - Centralized Communication
+  
+**Live Demo**
+🌐 https://kakshaconnect.in
+
+---
+
+### 🏢 Panvel Placement
+A full-stack recruitment and job portal built for students, recruiters, and placement agencies.
+
+**Key Features**
+- Job listings and advanced filtering
+- Candidate profile management
+- Admin dashboard
+- Authentication & role-based access
+- Responsive UI with SEO optimization
+
+**Live Demo**
+🌐 https://panvelplacement.in
 
 ---
 
@@ -101,6 +118,7 @@ Full-stack logistics and inventory platform with:
 - Role-based access
 - Inventory management
 - Order tracking
+- Customer and Staff Records
 - Workflow automation
 
 ---
@@ -113,7 +131,7 @@ Full-stack logistics and inventory platform with:
 - Developed production websites
 - Built business workflow software
 - Worked with PHP, MySQL and JavaScript
-- Delivered responsive, scalable web solutions
+- Delivered responsive, scalable websites as per business needs
 
 ### Full Stack Developer Intern
 **Eltovix Web Services**
